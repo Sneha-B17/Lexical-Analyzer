@@ -1,0 +1,7 @@
+int a = 17;
+float b = 07.17;
+char str = "Sneha";
+if(a>4)
+{
+return 0;
+}
